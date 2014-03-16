@@ -1,5 +1,5 @@
 INTRODUCTION
-------------
+ ------------
 This document describes how to:
 
   * Update your Drupal site from one minor 7.x version to another minor 7.x
