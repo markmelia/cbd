@@ -205,11 +205,11 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => '',
-      'username' => '',
-      'password' => '',
-      'host' => '',
-      'port' => '',
+      'database' => 'db1219623_cbd',
+      'username' => 'root',
+      'password' => 'root',
+      'host' => 'localhost',
+      'port' => '8889',
       'driver' => 'mysql',
       'prefix' => '',
     ),

@@ -12,6 +12,8 @@ body {
 	width:850px;
 }
 
+
+
 table {
     border-collapse: inherit;
 }
@@ -76,17 +78,31 @@ h1{
   display: none;
 }
 
-
 a,p,li,td{
-  font-family:"Abel","helveticaNeue-Light", "Helvetica Neue";
+    font-family:"Abel","helveticaNeue-Light", "Helvetica Neue";
+}
+
+p,li,td{
+  
   font-size:13px;
   color:#def5ff;
   text-decoration:none;
 }
 
 a{
+    color:#EFF7F6;
     text-decoration: underline;
+    font-size:14px;
+    padding:10px
 }
+
+a:hover{
+    color:#003f5b;
+    font-size:14px;
+    padding:10px;
+}
+
+
 
 div.field-items * li{
 	font-size:13px;
